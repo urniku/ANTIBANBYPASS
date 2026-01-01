@@ -1,9 +1,8 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 5,
-  "latestVersionName": "1.5",
-  "title": "BAN ISSUE DOWNLOAD NEW",
-  "message": "THIS MOD MENU PATCHED",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/+phv2GNoK16RjNTll"
+  "showUpdate": false,
+  "title": "🔔 New Update Available!",
+  "message": "Please update the app to continue using it.",
+  "buttonText": "Update Now",
+  "updateUrl": "https://silentcheats.xyz/Skand/api/bypass4.php",
+  "credit": "MR. NoOB"
 }
